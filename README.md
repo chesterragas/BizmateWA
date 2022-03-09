@@ -11,6 +11,7 @@ A weather app created for Technical assessment of Bizmates Philippines
 
 <br><br>
 ## Steps to run locally<br>
+-run update .evn with DB config<br>
 -run npm install<br>
 -run npm run dev<br>
 -run php artisan serve<br>
